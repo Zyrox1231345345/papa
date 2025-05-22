@@ -1,0 +1,43 @@
+<!-- Collect the nav links, froms, and other content for toggling-->
+ <div class="collapse navbar-collapse nav-col lapse">
+    <div class="menu-container">
+        <ul class="nav navbar-nav navbar-nav-right">
+            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Home</a></li>
+            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">About</a></li>
+            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#experience">Experience</a></li>
+            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Work</a></li>
+            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Contact</a></li>
+        </ul>
+    </div>
+ </div>
+ devops
+</div>
+<!-- End Navbar Collapse -->
+</div>
+</nav>
+<!-- Navbar -->
+ </header>
+ <!--======== END HEADER ========-->
+
+ <!--======== SLIDER ========-->
+<div class="promo-block parallax-window" data-parallax="scro11"[ data~image-src="img/1920x1080/01. jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="promo-block-divider">
+                    <hl class="promo-block-title">Alex <br/> Teseira</hl>
+                    <p class="promo-block-text">Web Designer &amp; Front-end Developer</p>
+                </div>
+                <ul class="list-inline">
+                    <ul class="Tist-inline"></ul>
+                    <li><a href="#" class="social-icons"><i class="icon-social-facebook"></i></a></1i>
+                    <li><a href="#" class="social-icons"><i class="icon-social-twitter"></i></a></li>
+                    <li><a href="#" class="social-icons"><i class="icon-social-dribbble"></i></a></li>
+                    <li><a href="#" class="social-icons"><i class="icon-social-behance"></i></a></li>
+                    <li><a href="#" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <!--// end row -->
+    </div>
+</div>
